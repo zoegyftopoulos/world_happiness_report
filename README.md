@@ -10,7 +10,7 @@ Source: World Happiness Report by Gallup, the Oxford Wellbeing Research Centre a
 
 For the geospatial analysis, I used a vector map generated from https://geojson-maps.kyd.au which are sourced from https://www.naturalearthdata.com/.
 
-For the time-series analysis of GDP, I used the Federal Reserve Economic Data Set – a project by the Economic Research department of the Federal Reserve Bank of St Louis.
+For the time-series analysis of GDP (coming soon), I used the Federal Reserve Economic Data Set – a project by the Economic Research department of the Federal Reserve Bank of St Louis.
 
 Source: https://data.nasdaq.com/data/FRED-federal-reserve-economic-data/documentation
 
