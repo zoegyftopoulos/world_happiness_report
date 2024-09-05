@@ -23,3 +23,5 @@ Source: https://data.nasdaq.com/data/FRED-federal-reserve-economic-data/document
   
 # Findings 
 Gross Domestic Product was able to explain R² = 61,7% of the variance of the Happiness Score in the test set and R² = 62,5% in the training set (RMSE = 0,7 for both).
+
+Find a Tableau Storyboard I created for this project here (coming coon). The Storyboard doesn't contain every step I took in the analysis but highlights only those relevent to the final results. 
