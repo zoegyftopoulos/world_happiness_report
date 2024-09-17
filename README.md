@@ -10,7 +10,7 @@ Source: World Happiness Report by Gallup, the Oxford Wellbeing Research Centre a
 
 For the geospatial analysis, I used a vector map generated from https://geojson-maps.kyd.au which are sourced from https://www.naturalearthdata.com/.
 
-For the time-series analysis of GDP (coming soon), I used the Federal Reserve Economic Data Set – a project by the Economic Research department of the Federal Reserve Bank of St Louis.
+For the time-series analysis of GDP, I used the Federal Reserve Economic Data Set – a project by the Economic Research department of the Federal Reserve Bank of St Louis.
 
 Source: https://data.nasdaq.com/data/FRED-federal-reserve-economic-data/documentation
 
@@ -24,4 +24,4 @@ Source: https://data.nasdaq.com/data/FRED-federal-reserve-economic-data/document
 # Findings 
 Gross Domestic Product was able to explain R² = 61,7% of the variance of the Happiness Score in the test set and R² = 62,5% in the training set (RMSE = 0,7 for both).
 
-Find a Tableau Storyboard I created for this project here (coming soon). The Storyboard doesn't contain every step I took in the analysis but highlights only those relevent to the final results. 
+Find a Tableau Storyboard I created for this project [here](https://public.tableau.com/app/profile/zoe.gyftopoulos/viz/Storyboard6_7/WorldHappinessReport?publish=yes). The Storyboard doesn't contain every step I took in the analysis but highlights only those relevent to the final results. 
